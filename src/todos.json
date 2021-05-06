@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "isDone": false,
+        "isEdit": false,
+        "name": "Renew car insurance",
+        "addedDate": "28th Jun 2020"
+    },
+    {
+        "id": 2,
+        "isDone": false,
+        "isEdit": false,
+        "name": "Go to the hospital",
+        "addedDate": "26th Jun 2020"
+    },
+    {
+        "id": 3,
+        "isDone": false,
+        "isEdit": false,
+        "name": "Sign up for online course",
+        "addedDate": "25th Jun 2020"
+    },
+    {
+        "id": 4,
+        "isDone": false,
+        "isEdit": false,
+        "name": "Buy groceries for next week",
+        "addedDate": "24th Jun 2020"
+    }
+]
